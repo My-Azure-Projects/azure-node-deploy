@@ -3,8 +3,6 @@ It allows to upload and delete files from blob or file shares containers.
 
 ## API
 
-
-
 ### `deployBlob`
 
 Usually is used for deploying static files, such as FE part of the application.
