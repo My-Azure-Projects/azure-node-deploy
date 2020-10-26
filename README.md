@@ -4,7 +4,6 @@ It allows to upload and delete files from blob or file shares containers.
 
 ## API
 
-
 ### `deployBlob`
 
 
